@@ -1,0 +1,12 @@
+At the beginning, install packages: npm i
+
+>> How to Run:
+
+1st>> npm init -y
+2nd>> npm install express socket.io
+3rd>> node main.js
+
+
+
+then, the console will show a port number...
+http://localhost:3000/
